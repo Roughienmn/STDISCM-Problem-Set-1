@@ -1,5 +1,5 @@
 ## Running the Program
-To run the program in **Visual Studio**, simply open the project and press **Run** (▶) or **Start Debugging** (F5).  
+To run the program in **Visual Studio**, simply open the solution file (Problem Set 1.sln) and press **Run** (▶) or **Start Debugging** (F5).  
 
 Make sure the `config.txt` file is properly configured before running.
 
