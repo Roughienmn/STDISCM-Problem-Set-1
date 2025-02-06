@@ -1,0 +1,4 @@
+print=immediate
+division=linear
+x=4
+y=1000
